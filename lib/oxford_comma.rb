@@ -8,3 +8,5 @@ def oxford_comma(array)
     return array.join(", ")
 end
 end
+
+oxford_comma
